@@ -27,6 +27,6 @@
   <a href="https://github.com/tallesvini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
  </a>
    
-     <div>https://github.com/tallesvini/tallesvini/blob/output/github-contribution-grid-snake.svg</div>
+  ![Snake animation](https://github.com/tallesvini/tallesvini/blob/output/github-contribution-grid-snake.svg)
    
 </div>
