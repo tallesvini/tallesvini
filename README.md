@@ -3,6 +3,7 @@
 - 🔭 Atualmente trabalho com desenvolvimento Front-end!
 - 🌱 Estou aprendendo novas tecnologias web e Frameworks!
 - 📫 Contate-me atravez do email: tallesvinicius.contato@gmail.com
+- 💼 Meu site: <a href='https://tallesvini.github.io/tallescomercial/' target='_blank'>Clique aqui!</a>
 
  <div>
   <a href="https://github.com/tallesvini">
