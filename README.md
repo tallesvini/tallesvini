@@ -35,4 +35,4 @@
  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-![Snake animation](https://github.com/tallesvini/tallesvini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tallesvini)
