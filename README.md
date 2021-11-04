@@ -1,6 +1,6 @@
 ### Como vai? Eu sou o Talles! Prazer <img src="https://user-images.githubusercontent.com/90796934/133909283-70463788-3a47-4cb3-b672-a4e63217bb11.gif" width="28px">
 
-- 🔭 Atualmente trabalho com desenvolvimento Front-end!
+- 🔭 Atualmente focado no desenvolvimento Front-end!
 - 🌱 Estou aprendendo novas tecnologias web e Frameworks!
 - 📫 Contate-me atravez do email: tallesvinicius.contato@gmail.com
 - 💼 Meu site: <a href='https://tallesvini.github.io/tallescomercial/' target='_blank'>Clique aqui!</a>
