@@ -22,6 +22,7 @@
   <img align="center" alt="talles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="talles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="talles-gif" width="270" src="https://user-images.githubusercontent.com/90796934/145891808-fd328540-b7ef-49be-ba6c-fded62b87f74.gif">
 </div>
   
  ## Meios de contato ✅
