@@ -1,6 +1,6 @@
 ## Como vai? Eu sou o Talles! Prazer <img src="https://user-images.githubusercontent.com/90796934/133909283-70463788-3a47-4cb3-b672-a4e63217bb11.gif" width="28px">
 
-➡️  Tenho bastante conhecimento em desenvolvimento Front-end, ademais, tenho grande intenção de expandir futuramente para o Back-end!
+➡️  Tenho bastante conhecimento em desenvolvimento Front-end! 😌
 
 ### Skills:
 - 📌 Básico Web (HTML, CSS e JS).
