@@ -1,14 +1,18 @@
-## Como vai? Eu sou o Talles! Prazer <img src="https://user-images.githubusercontent.com/90796934/133909283-70463788-3a47-4cb3-b672-a4e63217bb11.gif" width="28px">
+# Are you fine? I'm Talles! <img src="https://user-images.githubusercontent.com/90796934/133909283-70463788-3a47-4cb3-b672-a4e63217bb11.gif" width="35px">
 
-➡️  Tenho bastante conhecimento em desenvolvimento Front-end! 😌
+#### I have a lot of knowledge in Front-end development! 🔥
 
-### Skills:
-- 📌 Básico Web (HTML, CSS e JS).
-- 📌 Frameworks e Bibliotecas modernas ( ReactJs ,Vue.js e jQuery ).
-- 📌 Conhecimento na Língua Inglesa. 
+<br>
+
+<img align="right" alt="talles-gif" width="230" src="https://user-images.githubusercontent.com/90796934/158072883-42250179-932e-44cc-b6a4-4f8a12cdbb1f.gif">
+
+## 🚀 HARD SKILLS
+- 📌 Basic web ( HTML, CSS and JS ).
+- 📌 Modern Frameworks and Libraries ( ReactJs, Vue.js and jQuery ).
+- 📌 Notion in the English language ( Basic ). 
 ______________________________________________________________________________
-- 📫 Contate-me atravez do email: tallesvinicius.contato@gmail.com
-- 💼 Meu site: <a href='http://tmcode.tech/' target='_blank'>Clique aqui!</a>
+- 📫 Contact me via e-mail: tallesvinicius.contato@gmail.com
+- 💼 My portfolio: <a href='http://tmcode.tech/' target='_blank'>Click here!</a>
 
  <div>
   <a href="https://github.com/tallesvini">
@@ -16,21 +20,35 @@ ______________________________________________________________________________
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallesvini&layout=compact&langs_count=7&theme=react"/>
 </div>
  
- ## Linguagens ✅
+ <br>
+ 
+ ## 🔖 TECHNOLOGIES AND TOOLS 
  <div style="display: inline_block"><br>
+  
   <img align="center" alt="talles-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;
   <img align="center" alt="talles-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
   &nbsp;&nbsp;
   <img align="center" alt="talles-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   &nbsp;&nbsp;
+  <img align="center" alt="talles-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  &nbsp;&nbsp;
   <img align="center" alt="talles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   &nbsp;&nbsp;
   <img align="center" alt="talles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="talles-gif" width="210" src="https://user-images.githubusercontent.com/90796934/145891808-fd328540-b7ef-49be-ba6c-fded62b87f74.gif">
-</div>
+  &nbsp;&nbsp; <br><br>
   
- ## Meios de contato ✅
+  <img align="center" alt="talles-vscode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  &nbsp;
+  <img align="center" alt="talles-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img align="center" alt="talles-win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+</div>
+ 
+ <br>
+  
+ ## 📩 CONTACT ME 
   
 <div> 
   <a href="https://www.linkedin.com/in/tallesvinicius/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,5 +59,5 @@ ______________________________________________________________________________
  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-  ![Snake animation](https://github.com/tallesvini/tallesvini/blob/output/github-contribution-grid-snake.svg)
-   
+![Snake animation](https://github.com/tallesvini/tallesvini/blob/output/github-contribution-grid-snake.svg)
+ 
