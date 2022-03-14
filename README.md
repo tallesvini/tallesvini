@@ -7,7 +7,7 @@
 <img align="right" alt="talles-gif" width="230" src="https://user-images.githubusercontent.com/90796934/158072883-42250179-932e-44cc-b6a4-4f8a12cdbb1f.gif">
 
 ## 🚀 HARD SKILLS
-- 📌 Basic web ( HTML, CSS and JS ).
+- 📌 Basic web ( HTML5, CSS3 and JS ).
 - 📌 Modern Frameworks and Libraries ( ReactJs, Vue.js and jQuery ).
 - 📌 Notion in the English language ( Basic ). 
 ______________________________________________________________________________
