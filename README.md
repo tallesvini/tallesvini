@@ -1,7 +1,7 @@
 # <i> </ Are you fine? I'm Talles! > </i> <img src="https://user-images.githubusercontent.com/90796934/133909283-70463788-3a47-4cb3-b672-a4e63217bb11.gif" width="35px">
 
 ### I have a lot of knowledge in Front-end development! 🔥
-
+ 
 <br>
 
 <img align="right" alt="talles-gif" width="230" src="https://user-images.githubusercontent.com/90796934/158072883-42250179-932e-44cc-b6a4-4f8a12cdbb1f.gif">
@@ -12,7 +12,9 @@
 - 📌 Notion in the English language ( Basic ). 
 ______________________________________________________________________________
 - 📫 Contact me via e-mail: tallesvinicius.contato@gmail.com
-- 💼 My portfolio: <a href='http://tmcode.tech/' target='_blank'>Click here!</a>
+- 💼 My portfolio:   <a href='http://tmcode.tech/' target='_blank'>Click here!</a>
+- 🔴 Youtube: <a href="https://www.youtube.com/channel/UC9ziKztIWzUwqRxqc-abXFQ" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC9ziKztIWzUwqRxqc-abXFQ?style=social" target="_blank">
+ </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  <div>
   <a href="https://github.com/tallesvini">
@@ -57,6 +59,7 @@ ______________________________________________________________________________
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/tallesvini" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </div>
 
 ![Snake animation](https://github.com/tallesvini/tallesvini/blob/output/github-contribution-grid-snake.svg)
