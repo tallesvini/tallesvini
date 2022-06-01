@@ -1,4 +1,4 @@
-# <i> </ Are you fine? I'm Talles! > </i> <img src="https://user-images.githubusercontent.com/90796934/133909283-70463788-3a47-4cb3-b672-a4e63217bb11.gif" width="35px">
+# </ Are you fine? I'm Talles! > 
 
 ### I have a lot of knowledge in Front-end development! 🔥
  
