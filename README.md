@@ -1,8 +1,6 @@
 # `</ Are you fine? I'm Talles! > `
 
 ### I have a lot of knowledge in Web development! 🔥
- 
-<br>
 
 <img align="right" alt="talles-gif" width="230" src="https://user-images.githubusercontent.com/90796934/158072883-42250179-932e-44cc-b6a4-4f8a12cdbb1f.gif">
 
