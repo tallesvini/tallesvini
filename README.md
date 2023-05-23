@@ -7,8 +7,8 @@
 ## `🚀 HARD SKILLS`
 - 📌 Basic web ( HTML5, CSS3 and JS ).
 - 📌 Modern Frameworks and Libraries Front-end ( ReactJs, Vue.js and jQuery ).
-- 📌 Back-end (NodeJS, C#, .Net(C#) and SQL (MySql, Oracle, Sql Server).
-- 📌 Notion in the English language ( Basic ). 
+- 📌 Back-end (NodeJS, C#, .Net(C#) and SQL (MySql, Oracle e SQL).
+- 📌 Notion in the English language ( Intermediate ). 
 ______________________________________________________________________________
 - 📫 Contact me via e-mail: tallesvinicius.contato@gmail.com
 - 💼 My portfolio:   <a href='http://tmcode.tech/' target='_blank'>Click here!</a>
