@@ -11,9 +11,8 @@
 - 📌 Notion in the English language ( Intermediate ). 
 ______________________________________________________________________________
 - 📫 Contact me via e-mail: tallesvinicius.contato@gmail.com
-- 💼 My portfolio:   <a href='http://tmcode.tech/' target='_blank'>Click here!</a>
-- 🔴 Channel: &nbsp; <a href="https://www.youtube.com/channel/UC9ziKztIWzUwqRxqc-abXFQ" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC9ziKztIWzUwqRxqc-abXFQ?style=social" target="_blank">
- </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 💼 My portfolio:   <a href='[http://tmcode.tech](https://tallesvinicius.tech/)/' target='_blank'>Click here!</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  <div>
   <a href="https://github.com/tallesvini">
