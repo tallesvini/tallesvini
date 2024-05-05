@@ -5,12 +5,15 @@ Welcome to my profile, where technology meets creativity!
 ![Talles Gif](https://user-images.githubusercontent.com/90796934/158072883-42250179-932e-44cc-b6a4-4f8a12cdbb1f.gif)
 
 ## 🚀 Skills & Expertise
-- **Front-end:** HTML5, CSS3, JavaScript, React.js, Vue.js
-- **Back-end:** Node.js, C#, .NET, SQL (MySQL, Oracle, SQL Server)
-- **Tools:** Visual Studio Code, Git, Windows
-- **Languages:** Intermediate English
 
-Feel free to explore more about my projects and skills on my [portfolio](https://tallesvinicius.tech/)!
+- **Back-end:** .NET(C#), ORM nHibernate, Entity Framework, Identity, NodeJS, SQL/PLSQL, API RESTful/GraphQL,
+DDD, Software Architecture, Princípios SOLID e MongoDB.
+- **Front-end:** Javascript, CSS, Typescript, ReactJS, jQuery, Bootstrap, SASS, Ajax e AngularJs.
+- **Notion:** VueJS, Python, TDD e Design Patterns.
+- **Tools:** Git.
+- **Languages**: English (B1).
+
+Feel free to explore more about my projects and skills on my [portfolio](https://tallesvini.github.io/talles-portfolio/)!
 
 ## 🔧 Technologies & Tools
  <div style="display: flex"><br>
