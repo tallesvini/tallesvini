@@ -6,11 +6,10 @@ Welcome to my profile, where technology meets creativity!
 
 ## 🚀 Skills & Expertise
 
-- **Back-end:** .NET(C#), ORM nHibernate, Entity Framework, Identity, NodeJS, SQL/PLSQL, API RESTful/GraphQL,
-DDD, Software Architecture, Princípios SOLID e MongoDB.
-- **Front-end:** Javascript, CSS, Typescript, ReactJS, jQuery, Bootstrap, SASS, Ajax e AngularJs.
-- **Notion:** VueJS, Python, TDD e Design Patterns.
-- **Tools:** Git.
+- **Back-end:** .NET(C#), ORM nHibernate, Entity Framework Core (EF), Identity, Websocket, Webhook, NodeJS, Python, SQL (MSSQL, MySQL, Postgres e Oracle)/PLSQL, Redis, MongoDB, API RESTful/GraphQL,
+DDD, Software Architecture, Solid Principles, GoF, Domain Driven Design (DDD), Test-Driven Development (TDD) and Design patterns.
+- **Front-end:** Javascript, CSS3, Typescript, ReactJS, jQuery, Bootstrap, SASS, Ajax and VueJS.
+- **Tools:** Git, Jenkins and RabbitMQ
 - **Languages**: English (B1).
 
 Feel free to explore more about my projects and skills on my [portfolio](https://tallesvini.github.io/talles-portfolio/)!
