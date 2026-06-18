@@ -86,6 +86,4 @@ Feel free to explore more about my projects and skills on my [portfolio](https:/
 
 Feel free to reach out for collaboration or just to say hi! 😊
 
-![Snake Animation](https://github.com/tallesvini/tallesvini/blob/output/github-contribution-grid-snake.svg)
-
-#### Copyright 2024 TM Code - All rights reserved
+#### Copyright 2026 TM Code - All rights reserved
